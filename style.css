@@ -10,6 +10,7 @@ body{
     height: 100vh;
     width: 100%;
     background: linear-gradient(to bottom, #8946ec 0%, #114ffc 100%);
+    overflow: hidden;
 }
 .wrapper{
     margin: 100px auto;
